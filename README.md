@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about hardware, C++, and motor control.
 
 
-- Some research on brain computer interfaces I've done:
-[BCI Research.pdf](https://github.com/SarahWelvaert/sarahwelvaert/files/11195998/Sarah.Welvaert.Research.Poster2.pdf)
+- Some research on [brain computer interfaces](https://github.com/SarahWelvaert/sarahwelvaert/files/11195998/Sarah.Welvaert.Research.Poster2.pdf) I've done:
+
