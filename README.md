@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on building my own alarm clock, a data logger to monitor the health of creeks in my area, a MATLAB app for radio astronomy data. 
+- 🔭  
 - 🌱 I’m currently learning more about hardware, C++, and motor control.
 
 
