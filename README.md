@@ -1,4 +1,4 @@
-### Hi, my name is Sarah
+
 
 <!--
 **SarahWelvaert/sarahwelvaert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭  
-- 🌱 I’m currently learning more about hardware, C++, and motor control.
+  
 
 
 - Some research on [brain computer interfaces](https://github.com/SarahWelvaert/sarahwelvaert/files/11195998/Sarah.Welvaert.Research.Poster2.pdf) I've done
